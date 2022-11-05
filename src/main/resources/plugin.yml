@@ -1,0 +1,8 @@
+name: XGAuthRemastered
+version: '${project.version}'
+main: fur.kiyoshi.xgauthremastered.Main
+api-version: 1.19
+authors: [ MyNameIsKiyoshi ]
+description: XGAuth Remastered For 1.19.2
+softdepend:
+  - AuthMe

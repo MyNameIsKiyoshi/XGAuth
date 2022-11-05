@@ -1,0 +1,14 @@
+#     _  ___________         __  __       ___         __  __               __  _            __  _
+#    | |/ / ____/   | __  __/ /_/ /_     /   | __  __/ /_/ /_  ___  ____  / /_(_)________ _/ /_(_)___  ____
+#    |   / / __/ /| |/ / / / __/ __ \   / /| |/ / / / __/ __ \/ _ \/ __ \/ __/ / ___/ __ `/ __/ / __ \/ __ \
+#   /   / /_/ / ___ / /_/ / /_/ / / /  / ___ / /_/ / /_/ / / /  __/ / / / /_/ / /__/ /_/ / /_/ / /_/ / / / /
+#  /_/|_\____/_/  |_\__,_/\__/_/ /_/  /_/  |_\__,_/\__/_/ /_/\___/_/ /_/\__/_/\___/\__,_/\__/_/\____/_/ /_/
+# By MyNameIsKiyoshi (Kiyoshi#1010) Remastered For Version 1.19.2 Works Only With JDK 18 - Sponsors: mc.adventurecraft.fun
+# Official Google Authentication Minecraft Plugin - 1.19.2 Only. Support Discord: https://discord.gg/ka7uGKfy7p
+
+# Don't Touch This Section Pls
+Metrics: true
+
+# Addons Section
+Addons:
+  AuthMeSupport: false # AuthMe Support May Cause Bugs Or Problems
